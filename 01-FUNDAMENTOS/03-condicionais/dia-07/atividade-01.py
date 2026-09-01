@@ -1,0 +1,11 @@
+"""
+PYTHON-STUDY
+Dia 07 - Atividade 01
+
+Resolva o desafio deste dia sem consultar uma solução pronta.
+Tema: 03 Condicionais
+"""
+
+# Escreva sua solução abaixo.
+
+

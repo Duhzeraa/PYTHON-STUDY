@@ -1,0 +1,11 @@
+"""
+PYTHON-STUDY
+Dia 25 - Atividade 01
+
+Resolva o desafio deste dia sem consultar uma solução pronta.
+Tema: 02 List Comprehension
+"""
+
+# Escreva sua solução abaixo.
+
+
